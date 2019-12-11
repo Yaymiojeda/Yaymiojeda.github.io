@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Healt-ish - Food and life style </title>
+ 		<meta charset="utf-8">
+ 		<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+		
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css"></link>
+ 	<link rel="stylesheet" href="Health-ishFinal.css"></link>
+	
+ 	</head>
+<body>
+
+
+	<p><h1 title="A practical way to live"> Health<b class="ish">-ish!</b></h1></p>
+
+
+	<div class="container">
+
+  <!-- columns should be the immediate child of a .row -->
+  <div class="row">
+ <div class=".seven.columns">
+	  
+
+	  
+	  <div class=".five.columns">
+	  <img class="imaginemedium" src="https://raw.githubusercontent.com/Yaymiojeda/Yaymiojeda.github.io/master/IMG_5856.JPG" alt="Yaymi at Gantry State Park">
+	
+
+<h4><a href="https://www.Instagram.com/yaymiv" target="_blank"> Instagram </a></h4>
+	  
+	  
+	  </div>
+  </div>
+</div>
+
+
+
+	
+
+	
+<div class="author"><h5> Author: Yaymi V. Ojeda</h5></div>
+	
+
+	<p> <h5>New Recipes coming soon! </h5></p>
+<p id="Nutricious"> Have you try oat-nutricious panckes yet? <div id="me"> YES, HEALTH-ISH PANCAKES!</div> </p>
+
+					   
+<div>
+		<p> Good nutrition is an important part of leading a healthy lifestyle. Combined with physical activity, your diet can help you to reach and maintain a healthy weight, reduce your risk of chronic diseases (like heart disease and cancer), and promote your overall health
+				   					   
+</p>				   
+	 </div>
+
+<div class="nav-bar">
+	
+	<ul>
+ 		<li><a href="http://www.google.com" tag="_blank"> Pancakes' ideas</a></li>
+ 	<li><a href="http://www.google.com" tag="_blank"> <h>Healhty Snacks</h></a></li>
+		<li><a href="http://www.google.com" tag="_blank"> Guilt-Free Drinks</a></li>
+		<li><a href="http://www.google.com" tag="_blank"> Sustantial Meals</a></li>
+	 </ul>
+ </div>
+
+
+
+<p id="time" >Total time: 20 minutes</p>
+
+
+<div> 
+	
+<p>	3/4 cup + 1 tbsp spelt, white, or oat flour (or here's a recipe for Flourless Pancakes)
+6 tbsp rolled oats
+1/2 tsp salt
+2 tsp baking powder
+1 tsp cinnamon
+3 tbsp pure maple syrup, honey, or agave OR 1/8 tsp uncut stevia
+1 cup + 2 tbsp milk of choice (minus 3 tbsp if using liquid sweetener)
+2 tbsp oil
+2 tsp pure vanilla extract
+optional, 1/2 tsp pure almond extract
+optional, handful chocolate chips or raisins
+optional, up to 2/3 cup blueberries if desired
+Instructions
+
+Oatmeal Pancakes Recipe: In a small bowl, combine all dry ingredients and stir very well. In a separate bowl, whisk together all liquid ingredients. Pour dry into wet, and stir together to form a batter. (Note: if the batter is too thin–which might be the case especially if using cup measurements of ww pastry flour–just add a little more flour until you get a pancake-esque batter.) For fluffiest pancakes, let the batter sit in the fridge for 10-15 minutes. Lightly grease a medium skillet, then place over medium heat. When pan is hot (see tip), drop small ladelfuls of batter onto the skillet. Flip pancakes, using a spatula, when the edges begin to look dry. Allow to cook one minute longer, then remove from heat. Serve with your favorite pancake toppings. TIP: Test the heat of your skillet by throwing a few drops of water onto the surface. When the water sizzles, the pan is ready for the pancake batter. Recipe makes about 20 small pancakes, the size of the ones in the photos (3-4 servings).	 
+	
+</p>
+</div>
+
+ <footer>
+ 	Health-ish is always better!
+ </footer>	
+
+</body>
+ 
+</html>
