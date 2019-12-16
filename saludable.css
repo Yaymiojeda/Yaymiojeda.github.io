@@ -39,7 +39,6 @@
 
 }
 
-
 /* This is for the columns 
 
 /* Create three equal columns that floats next to each other */
@@ -61,15 +60,20 @@
   .column {
     width: 100%;
   }
-}
 
-#P1 {text-align: justify;
-  clear: both;
+
 }
 .p1color {color: black;
 font-family: 'Libre Baskerville', serif;
-font-size: small;}
+font-size: small;
+text-indent: 50px; 
+text-align: justify;
+}
 
+#p2 {color: black;
+font-family: 'Libre Baskerville', serif;
+font-size: small;
+text-align: justify;}
 
 
 #tittle {
@@ -142,4 +146,117 @@ footer {
   bottom: 10px;
   width: 100%;
   text-align: center;
+}
+
+/*Email form*/
+
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+#email { color: #ff00ff;
+        font-family: 'Bree Serif', serif;
+        text-align: center;
+}
+
+.emailform {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+#name { color: #ff00ff;
+        font-family: 'Bree Serif', serif;
+}
+#lastname { color: #ff00ff;
+        font-family: 'Bree Serif', serif;
+}
+#subject { color: #ff00ff;
+        font-family: 'Bree Serif', serif;
+}
+#country { color: #ff00ff;
+        font-family: 'Bree Serif', serif;
+}
+
+
+#recipe1 {
+  color: black;
+  font-family: 'Titillium Web';
+  text-align: justify;
+}
+
+#image_banana_bread {
+float: center;
+margin-left: auto;
+  margin-right: auto;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        padding: 5px;
+  width: 100%;
+
+}
+
+li { color: black }
+
+.pink { color: #fc036b;
+         }
+
+.version {
+  color: black;
+  font-family: 'Titillium Web';
+  text-align: center;
+}
+}
+
+#thankyou {color: black;
+  font-family: 'Titillium Web';
+  text-align: right;}
+
+  
+  /* Hero image*/
+
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://github.com/Yaymiojeda/Yaymiojeda.github.io/blob/master/spinachpeanutbutterpancakes.jpg?raw=true);
+height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;}
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+
 }
